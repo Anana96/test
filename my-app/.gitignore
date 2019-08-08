@@ -19,6 +19,7 @@ speed-measure-plugin*.json
 .project
 .classpath
 .c9/
+idea/workspace.xml
 *.launch
 .settings/
 *.sublime-workspace
@@ -30,6 +31,7 @@ speed-measure-plugin*.json
 !.vscode/launch.json
 !.vscode/extensions.json
 .history/*
+.idea/workspace.xml
 
 # misc
 /.sass-cache
